@@ -1,6 +1,5 @@
 def speak_to_grandma(phrase)
   phrase = "I LOVE YOU GRANDMA!"
-  puts #{phrase}
 end
 
 # Whatever you say to grandma, she should respond with
