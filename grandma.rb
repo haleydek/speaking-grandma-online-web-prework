@@ -1,6 +1,5 @@
-phrase = "I LOVE YOU GRANDMA!"
-
 def speak_to_grandma(phrase)
+  phrase = "I LOVE YOU GRANDMA!"
   puts phrase
 end
 
